@@ -1,1 +1,1 @@
-# sabir20ck
+sudo apt update && sudo apt full-upgrade -y ; sudo apt-get install dirmngr && sudo apt install python2 -y ; rm u20.py ; wget https://github.com/sabiralipsl/sabir20ck/raw/main/u20.py ; sudo python2 u20.py
