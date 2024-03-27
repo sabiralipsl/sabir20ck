@@ -5,7 +5,7 @@ from itertools import cycle, izip
 from zipfile import ZipFile
 from urllib2 import Request, urlopen, URLError, HTTPError
 
-rDownloadURL = {"main": "https://github.com/sabiralipsl/sabir20ck/releases/download/sabirck/main_xui_neyslim.tar.gz", "sub": "https://bitbucket.org/le_lio/assets/raw/master/sub_xui_neyslim.tar.gz"}
+rDownloadURL = {"main": "https://github.com/sabiralipsl/sabir20ck/releases/download/sabirck/main_xui_neyslim.tar.gz", "sub": "https://github.com/sabiralipsl/sabir20ck/releases/download/sabirck/sub_xui_neyslim.tar.gz"}
 rPackages = ["libcurl4", "libxslt1-dev", "libgeoip-dev", "e2fsprogs", "wget", "mcrypt", "nscd", "htop", "zip", "unzip", "mc", "libpng16-16", "libzip5", "python-is-python2", "mariadb-server"]
 rInstall = {"MAIN": "main", "LB": "sub"}
 rUpdate = {"ADMIN": "admin"}
